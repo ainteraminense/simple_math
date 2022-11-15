@@ -25,5 +25,7 @@ def main():
     user_input_string = ask_user_input(question)
 
 
-if(__name__ == "__main__"):
+# if(__name__ == "__main__"):
+#     main()
+if(__name__ == '__main__'):
     main()
